@@ -1,6 +1,6 @@
 #pragma config(StandardModel, "EV3_REMBOT")
 #pragma config(Sensor, S3,     Colour,         sensorEV3_Color, modeEV3Color_Color)
-
+//to run on big slalum,change speeds to (10,-10)
 
 
 
@@ -11,7 +11,7 @@ task main()
 	int saw_white=0;//if i saw white or not
  	short currentColour;//current colour that the robot saw
  	int time_black=0;//amount of loop time that i views black
- 	int allow_black=0;//did i really recognized black and it's not a bug
+ 	int allow=0;//did i really recognized black and it's not a bug
 	while (true)
 	{
 		// Colours range from 0 to 7
