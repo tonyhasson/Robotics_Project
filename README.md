@@ -6,3 +6,7 @@ https://funlab.nd.edu/the-nao-base/special-movements/
 
 "image recognition guide"
 https://www.youtube.com/watch?v=BigrGEvFTJs
+
+
+"demo"
+https://www.youtube.com/watch?v=cqT9jffKkPY
